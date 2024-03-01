@@ -4,4 +4,7 @@ Prada is not just a dog; she's family. Explore the pages below to learn more abo
 
 [About Prada](about.md) | [Photo Gallery](gallery.md) | [Adventures](adventures.md) | [Contact](contact.md)
 
-![alt text](<prada_ image1.jpeg>)
+
+
+
+![alt text](prada_image3.jpeg)
